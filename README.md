@@ -1,4 +1,4 @@
-![wallhaven-6dg7ll_720x200](https://github.com/Komodomo/Komodomo/assets/114849860/d7e661f6-97be-43cf-a09e-2d8530ee4cf9)
+![afterglow_by_t1na_df17o5i-fullview](https://github.com/Komodomo/Komodomo/assets/114849860/45a755c6-ea5f-4e19-bf31-dba71770f7df)
 <h1 align="left">Hi 👋, I'm Komodomo</h1>
 <h3 align="left">Nah cocacolastic</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
