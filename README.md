@@ -1,4 +1,4 @@
-![wallhaven-m3vgvk_720x200](https://github.com/Komodomo/Komodomo/assets/114849860/69a707b3-0989-4fdd-812c-d2e2e4dad68c)
+![wallhaven-6dg7ll_1020x320](https://github.com/Komodomo/Komodomo/assets/114849860/dc6dd305-7a35-424d-9eb6-6af39ab6deb3)
 
 <h1 align="left">Hi 👋, I'm Komodomo</h1>
 <h3 align="left">Nah cocacolastic</h3>
