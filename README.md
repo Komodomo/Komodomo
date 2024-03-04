@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komodomo&label=Profile%20views&color=0e75b6&style=flat" alt="komodomo" /> </p>
 
-- 🌱 I’m currently learning **Everything below 😅**
+- 🌱 I’m currently learning **Everything in below 😅**
 
 - ⚡ Fun fact **I like sate 😂**
 
