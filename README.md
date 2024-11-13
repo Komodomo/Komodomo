@@ -1,10 +1,10 @@
-<img src="https://i.pinimg.com/736x/ff/6a/fc/ff6afc47e9e5489d99b3acf3e07c22c8.jpg" width="100%" />
+<img src="https://i.pinimg.com/736x/0f/9a/af/0f9aafc8a29cd5031dea4acef2a0cc58.jpg" width="100%" />
 
 # Hi, I'm Komodomo
 
 ![](https://komarev.com/ghpvc/?username=your-github-komodomo&color=green)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RafiMahendra/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-mahendra-hae)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ra.mhndra/)](https://www.instagram.com/ra.mhndra)
 
 
