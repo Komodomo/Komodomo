@@ -18,8 +18,6 @@
 </header>
 
 <section>  
-<br>
-<br>
 
 ### About me ☕
 - Studies Informatics Engineering at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/).
