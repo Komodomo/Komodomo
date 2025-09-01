@@ -5,10 +5,6 @@
 <table>
   <tr>
     <td>
-      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe"/>
-      <a href="https://rafimh-porto.vercel.app/"/>My Portfolio
-    </td>
-    <td>
       <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
       <a href="https://www.linkedin.com/in/rafimahendrakomo">LinkedIn</a>
     </td>
