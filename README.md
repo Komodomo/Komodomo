@@ -1,21 +1,49 @@
 <img src="https://i.pinimg.com/736x/0f/9a/af/0f9aafc8a29cd5031dea4acef2a0cc58.jpg" width="100%" />
 
-# Hi, I'm Komodomo
-
-![](https://komarev.com/ghpvc/?username=your-github-komodomo&color=green)
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafi-mahendra-hae)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ra.mhndra/)](https://www.instagram.com/ra.mhndra)
+<header align="left">
 
 
-- I like sate bakar, u should try
+<table align="left">
+  <tr >
+    <th>
+      <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
+      <a href="[https://www.jfmartinz.dev/](https://rafimh-porto.vercel.app/)" />  My Portfolio  
+    </th> 
+    <th>
+   <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
+  <a href="https://www.linkedin.com/in/rafimahendrakomo" />   LinkedIn
+    </th>
+     <th>
+       <img align="center" width="24" height="24" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
+        <a href="https://www.instagram.com/ramhendra_/">Instagram</a>
+    </th>
+  </tr>
+  
+</table>
+</section>
+</header>  
+<section>  
+<br>
+<br>
 
+### About me ☕
+- Studies Informatics Engineering at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/).
+- What i likes: Sate, listening to music and probably sleep :p
+</section>
 
-### ⚙️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,flutter,firebase,python,figma)](https://skillicons.dev)
 
-![Bootstrap](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat-square&logo=Tailwind-CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535)
+---
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komodomo&show_icons=true&locale=en&layout=compact" alt="komodomo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=komodomo&" alt="komodomo" />
-</div>
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Komodomo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  
+
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komodomo&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+  </td>
+</tr>
+</table>
+</section>
