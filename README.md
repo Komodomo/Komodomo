@@ -2,23 +2,23 @@
 
 <header align="left">
 
-<table align="left">
+<table>
   <tr>
-    <th>
+    <td>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe"/>
-      <a href="https://rafimh-porto.vercel.app/" target="_blank">My Portfolio</a>
-    </th> 
-    <th>
+      <a href="https://rafimh-porto.vercel.app/"/>My Portfolio
+    </td>
+    <td>
       <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-      <a href="https://www.linkedin.com/in/rafimahendrakomo" target="_blank">LinkedIn</a>
-    </th>
-    <th>
+      <a href="https://www.linkedin.com/in/rafimahendrakomo">LinkedIn</a>
+    </td>
+    <td>
       <img align="center" width="24" height="24" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="instagram"/>
-      <a href="https://www.instagram.com/ramhendra_/" target="_blank">Instagram</a>
-    </th>
+      <a href="https://www.instagram.com/ramhendra_/">Instagram</a>
+    </td>
   </tr>
 </table>
-    
+
 </header>
 
 <section>  
