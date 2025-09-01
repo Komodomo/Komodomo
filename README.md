@@ -7,15 +7,15 @@
   <tr >
     <th>
       <img align="center" width="24" height="24" src="https://img.icons8.com/material-outlined/24/EBEBEB/globe--v1.png" alt="globe--v1"/>
-      <a href="[https://www.jfmartinz.dev/](https://rafimh-porto.vercel.app/)" />  My Portfolio  
+      <a href="[https://www.jfmartinz.dev/](https://rafimh-porto.vercel.app/)" target="_blank"/>  My Portfolio  
     </th> 
     <th>
    <img align="center" width="24" height="24" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>   
-  <a href="https://www.linkedin.com/in/rafimahendrakomo" />   LinkedIn
+  <a href="https://www.linkedin.com/in/rafimahendrakomo" target="_blank"/>   LinkedIn
     </th>
      <th>
        <img align="center" width="24" height="24" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
-        <a href="https://www.instagram.com/ramhendra_/">Instagram</a>
+        <a href="https://www.instagram.com/ramhendra_/" target="_blank">Instagram</a>
     </th>
   </tr>
   
