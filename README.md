@@ -24,7 +24,7 @@
 - What i likes: Sate, listening to music and probably sleep :p
 </section>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,flutter,firebase,python,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,nextjs,flutter,firebase,python,figma)](https://skillicons.dev)
 
 ---
 
