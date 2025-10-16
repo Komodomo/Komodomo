@@ -21,7 +21,7 @@
 
 ### About me ☕
 - Studies Informatics Engineering at [Telkom University Surabaya](https://surabaya.telkomuniversity.ac.id/).
-- What i likes: Sate, listening to music and probably sleep :p
+- Sate, music, sleep :p
 </section>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,nextjs,flutter,firebase,python,github,figma,vscode)](https://skillicons.dev)
