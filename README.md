@@ -24,7 +24,7 @@
 - Sate, music, sleep :p
 </section>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,nextjs,flutter,firebase,python,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,laravel,php,mysql,react,typescript,nextjs,flutter,firebase,github,figma,vscode)](https://skillicons.dev)
 
 ---
 
